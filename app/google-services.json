@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257591013895",
+    "firebase_url": "https://battery-saver-efcbd.firebaseio.com",
+    "project_id": "battery-saver-efcbd",
+    "storage_bucket": "battery-saver-efcbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257591013895:android:b932d273b0fa78ac4d70a2",
+        "android_client_info": {
+          "package_name": "com.example.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257591013895-f6p6gtlr24hltapt1pc4du4oetcatlie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiz5GTa1Qfpc6fJBMU4tUnafGM0RkmN58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257591013895-f6p6gtlr24hltapt1pc4du4oetcatlie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
